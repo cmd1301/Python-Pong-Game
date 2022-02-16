@@ -1,2 +1,2 @@
-# Python
-Python projects and studies
+# Python Studies
+Essential Python for studies
